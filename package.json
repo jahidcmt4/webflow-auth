@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "sqlite3": "^5.1.7",
+    "webflow-api": "^3.2.2"
+  }
+}
