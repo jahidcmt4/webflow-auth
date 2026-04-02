@@ -1,8 +1,11 @@
 {
   "dependencies": {
+    "@stripe/stripe-js": "^9.0.0",
+    "cors": "^2.8.6",
     "dotenv": "^17.3.1",
     "express": "^5.2.1",
     "sqlite3": "^5.1.7",
+    "stripe": "^21.0.1",
     "webflow-api": "^3.2.2"
   }
 }
